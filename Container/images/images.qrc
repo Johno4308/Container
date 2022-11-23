@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>backup.png</file>
+        <file>exit.png</file>
+        <file>help.png</file>
+        <file>info.png</file>
+        <file>restore.png</file>
+        <file>xml.png</file>
+        <file>cylinder_icon.png</file>
+        <file>splash_image_45051429.jpg</file>
+        <file>box_icon.ico</file>
+        <file>about.html</file>
+        <file>sleep.png</file>
+    </qresource>
+</RCC>
